@@ -12,6 +12,7 @@ namespace MyTestGitHubProject
         {
             Console.WriteLine("Hello World");
             Console.WriteLine("Hiiii");
+            Console.WriteLine("How are you?");
         }
     }
 }
